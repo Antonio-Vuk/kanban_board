@@ -1,4 +1,4 @@
-# kanban_board (IZRADA KANBAN PLOČE KORISTEČI VUE.JS FRAMEWORK I FIREBASE BACKEND)
+# kanban_board (KANBAN PLOČA IZRAĐENA KORISTEČI VUE.JS FRAMEWORK I FIREBASE BACKEND)
 
 Projekt izragen za kolegij informacijski management
 
