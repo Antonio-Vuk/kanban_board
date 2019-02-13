@@ -22,5 +22,6 @@ Mogučnosti:
 - Mijenjanje statusa
 - Pračenje broja sati za određeni zadatak
 - Sortiranje zadataka po prioritetu
+- Kreiranje usera (Login sustav)
 
 S obzirom na to da se danas većina poslova radi u timovima, te jedna osoba nije više zadužena samo za jedan zadatak, već više njih, iznimno je važno da se zadaci pravilno organiziraju. Mnogi pojedinci svoje zadatke zapisuju na papire te ih izvršavaju jedan po jedan, u posljednje je vrijeme sve popularniji način organiziranja obaveza i vremena općenito postaje tzv. osobni kanban. U ovome radu je korišten Vue.js JavaScript framework za izgradnju interaktivne kanban ploče koja se pokreće u browseru. 
