@@ -5,6 +5,7 @@ Projekt izragen za kolegij informacijski management
 Serversko okruženje: Node.js
 
 Korištene biblioteke:
+
 1. vuedraggable - version(5.8.2) - Vue Drag and Drop library without any dependency.
 2. vuex - version(3.1.0) - state management pattern + library for Vue.js applications.
 3. firbase - version(5.8.2) - provides the tools and infrastructure you need to develop and grow your app.
@@ -17,6 +18,7 @@ Username: test@test.com
 Password: testtest
 
 Mogučnosti:
+
 - Dodavanje zadataka
 - Brisanje zadataka
 - Mijenjanje statusa
@@ -24,4 +26,40 @@ Mogučnosti:
 - Sortiranje zadataka po prioritetu
 - Kreiranje usera (Login sustav)
 
-S obzirom na to da se danas većina poslova radi u timovima, te jedna osoba nije više zadužena samo za jedan zadatak, već više njih, iznimno je važno da se zadaci pravilno organiziraju. Mnogi pojedinci svoje zadatke zapisuju na papire te ih izvršavaju jedan po jedan, u posljednje je vrijeme sve popularniji način organiziranja obaveza i vremena općenito postaje tzv. osobni kanban. U ovome radu je korišten Vue.js JavaScript framework za izgradnju interaktivne kanban ploče koja se pokreće u browseru. 
+S obzirom na to da se danas većina poslova radi u timovima, te jedna osoba nije više zadužena samo za jedan zadatak, već više njih, iznimno je važno da se zadaci pravilno organiziraju. Mnogi pojedinci svoje zadatke zapisuju na papire te ih izvršavaju jedan po jedan, u posljednje je vrijeme sve popularniji način organiziranja obaveza i vremena općenito postaje tzv. osobni kanban. U ovome radu je korišten Vue.js JavaScript framework za izgradnju interaktivne kanban ploče koja se pokreće u browseru.
+
+# kanban_board
+
+## Project setup
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+
+```
+npm run build
+```
+
+### Run your tests
+
+```
+npm run test
+```
+
+### Lints and fixes files
+
+```
+npm run lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
